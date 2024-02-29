@@ -1,0 +1,22 @@
+/** @format */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+header{
+    display:flex;
+    background-color: black;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+header h1{
+    color: aqua;
+}
